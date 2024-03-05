@@ -1,0 +1,15 @@
+1.Progress Tag:
+Display progress bars and indicators using the <progress> tag. It’s great for showing the status of ongoing tasks, file uploads, or any process that requires visual feedback.
+
+2.<details> and <summary>:
+Create interactive disclosure widgets using the <details> tags and <summary> tags. These are perfect for hiding and revealing additional content or information on demand.
+
+3.<canvas>:
+The <canvas> tag allows you to draw graphics, create animations, and render images directly on a web page. It’s an essential tag for creating interactive games, data visualizations, and engaging multimedia content.
+
+4.<vedio>:
+The HTML <video> element is used to show a video on a web page.
+
+5.<div align="">:
+The HTML div align Attribute is used to specify the alignment of the <div> element or the content present inside the div Element. The align attribute in the <div> element specifies the horizontal alignment of its content
+
